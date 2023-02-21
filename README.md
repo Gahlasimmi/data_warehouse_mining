@@ -4,6 +4,6 @@ Class: MCA
 
 Roll No.: 2229016
 
-Hobbiea: Calligraphy
+Hobbies: Calligraphy
 
-Intrest In: Digital Design
+Interest In: Digital Design
